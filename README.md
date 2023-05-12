@@ -41,7 +41,7 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 * [TypeScript](https://github.com/awslabs/smithy-typescript) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Server generator for TypeScript.
 * [Rust](https://github.com/awslabs/smithy-rs) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Server generator for Rust.
 
-### Examples
+## Examples
 * [aws-samples: Typescript Example service](https://github.com/aws-samples/smithy-server-generator-typescript-sample) - Shows how to write a Typescript lambda service using Smithy and call the service using a generated client (see: [blog post](https://aws.amazon.com/blogs/devops/smithy-server-and-client-generator-for-typescript/)).
 * [rust server SDK examples](https://github.com/awslabs/smithy-rs/tree/main/examples) - a collection of examples using Smithy to generate a Rust server SDK.
 
