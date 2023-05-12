@@ -19,6 +19,7 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 * [Code Generators](#code-generators)
     * [Client Code Generators](#client-code-generators)
     * [Server Code Generators](#server-code-generators)
+* [Examples](#examples)
 * [IDE Support](#ide-support)
 * [Implementations](#implementations)
 * [Model Converters](#model-converters)
