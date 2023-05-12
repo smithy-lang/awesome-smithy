@@ -34,6 +34,7 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 * [TypeScript](https://github.com/awslabs/smithy-typescript) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Client code generation for Typescript.
 * [Golang](https://github.com/awslabs/smithy-go) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Client code generation for Golang.
 * [Rust](https://github.com/awslabs/smithy-rs) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Client code generation for Rust.
+* [Ruby](https://github.com/awslabs/smithy-ruby) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Client code generation for Ruby.
 * [Kotlin](https://github.com/awslabs/smithy-kotlin) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Client code generation for Kotlin.
 * [Swift](https://github.com/awslabs/smithy-swift) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Client code generation for Swift.
 * [Scala Code Generation for Smithy](https://github.com/disneystreaming/smithy4s) - Community plugin for generation of clients in Scala.
@@ -48,7 +49,7 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 
 ## IDE Support
 * [Smithy LSP](https://github.com/awslabs/smithy-language-server) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - A Language Server Protocol implementation for the Smithy IDL.
-* [Visual Studio Code Plugin](https://github.com/awslabs/smithy-vscode) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Visual Studio Code extension to recognize and highlight the Smithy IDL.
+* [Visual Studio Code Plugin](https://github.com/awslabs/smithy-vscode) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Visual Studio Code extension providing a Language Server Protocol implementation for the Smithy IDL.
 * [Intellij plugin](https://github.com/awslabs/smithy-intellij) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Provides IDE integration for the Smithy IDL within IntelliJ IDEA.
 * [iancaffey/smithy-intellij-plugin](https://github.com/iancaffey/smithy-intellij-plugin) - Community plugin for IDE integration for the Smithy IDL in Intellij IDEA.
 * [Tree Sitter Grammar for Smithy](https://github.com/indoorvivants/tree-sitter-smithy) - Included in [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) to provide syntax highlighting in Neovim.
