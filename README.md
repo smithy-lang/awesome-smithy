@@ -44,8 +44,8 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 * [Rust](https://github.com/awslabs/smithy-rs) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Server generator for Rust.
 
 ## Examples
-* [aws-samples: Typescript Example service](https://github.com/aws-samples/smithy-server-generator-typescript-sample) - Shows how to write a Typescript lambda service using Smithy and call the service using a generated client (see: [blog post](https://aws.amazon.com/blogs/devops/smithy-server-and-client-generator-for-typescript/)).
-* [Rust server SDK examples](https://github.com/awslabs/smithy-rs/tree/main/examples) - a collection of examples using Smithy to generate a Rust server SDK.
+* [aws-samples: Typescript Example service](https://github.com/aws-samples/smithy-server-generator-typescript-sample) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Shows how to write a Typescript lambda service using Smithy and call the service using a generated client (see: [blog post](https://aws.amazon.com/blogs/devops/smithy-server-and-client-generator-for-typescript/)).
+* [Rust server SDK examples](https://github.com/awslabs/smithy-rs/tree/main/examples) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - a collection of examples using Smithy to generate a Rust server SDK.
 
 ## IDE Support
 * [Smithy LSP](https://github.com/awslabs/smithy-language-server) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - A Language Server Protocol implementation for the Smithy IDL.
