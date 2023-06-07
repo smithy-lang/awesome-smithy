@@ -37,7 +37,7 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 * [Ruby](https://github.com/awslabs/smithy-ruby) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Client code generation for Ruby.
 * [Kotlin](https://github.com/awslabs/smithy-kotlin) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Client code generation for Kotlin.
 * [Swift](https://github.com/awslabs/smithy-swift) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Client code generation for Swift.
-* [Scala Code Generation for Smithy](https://github.com/disneystreaming/smithy4s) - Community plugin for generation of clients in Scala.
+* [Scala](https://github.com/disneystreaming/smithy4s) - Community plugin for generation of clients in Scala.
 
 ### Server Code Generators
 * [TypeScript](https://github.com/awslabs/smithy-typescript) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Server generator for TypeScript.
@@ -52,11 +52,11 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 * [Visual Studio Code Plugin](https://github.com/awslabs/smithy-vscode) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Visual Studio Code extension providing a Language Server Protocol implementation for the Smithy IDL.
 * [Intellij plugin](https://github.com/awslabs/smithy-intellij) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Provides IDE integration for the Smithy IDL within IntelliJ IDEA.
 * [iancaffey/smithy-intellij-plugin](https://github.com/iancaffey/smithy-intellij-plugin) - Community plugin for IDE integration for the Smithy IDL in Intellij IDEA.
-* [Tree Sitter Grammar for Smithy](https://github.com/indoorvivants/tree-sitter-smithy) - Included in [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) to provide syntax highlighting in Neovim.
+* [Tree Sitter Grammar for Smithy](https://github.com/indoorvivants/tree-sitter-smithy) - Tree-sitter grammar for Smithy. Included in [Neovim](https://github.com/nvim-treesitter/nvim-treesitter) and [Helix](https://docs.helix-editor.com/) by default.
 
 ## Implementations
 * [Smithy Reference Implementation](https://github.com/awslabs/smithy) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Smithy reference implementation in Java
-* [Atelier](https://github.com/johnstonskj/rust-atelier) - Community implementation of Smithy in Rust
+* [Atelier](https://github.com/johnstonskj/rust-atelier) 🚧 - Community implementation of Smithy in Rust
 
 ## Model Converters
 * [OpenAPI](https://smithy.io/2.0/guides/converting-to-openapi.html#smithy-to-openapi) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Converts Smithy models to [OpenAPI](https://www.openapis.org/)
