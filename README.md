@@ -23,6 +23,7 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 * [IDE Support](#ide-support)
 * [Implementations](#implementations)
 * [Model Converters](#model-converters)
+* [Others](#others)
 
 ## Build tools
 * [Smithy CLI](https://github.com/awslabs/smithy/tree/main/smithy-cli) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Smithy CLI is used to build, validate, diff, and transform Smithy models.
@@ -43,6 +44,10 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 ### Server Code Generators
 * [TypeScript](https://github.com/awslabs/smithy-typescript) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Server generator for TypeScript.
 * [Rust](https://github.com/awslabs/smithy-rs) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Server generator for Rust.
+
+## Learning resources
+* [Scaling APIs with Smithy](https://www.youtube.com/watch?v=3GpZzu4guTE) - Overview of Smithy's background and features.
+* [kubukoz/smithy4s-course](https://github.com/kubukoz/smithy4s-course) - Smithy/Smithy4s course.
 
 ## Examples
 * [Smithy Examples](https://github.com/smithy-lang/smithy-examples) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - A collection of examples to help you get up and running with Smithy.
@@ -65,6 +70,9 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 * [JSONSchema](https://github.com/awslabs/smithy/tree/main/smithy-jsonschema) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Converts Smithy models to [JSONSchema](https://json-schema.org/)
 * [Cloud Formation Resource Schemas](https://smithy.io/2.0/guides/generating-cloudformation-resources.html#smithy-to-cloudformation) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Generating Cloudformation resource schemas from Smithy models
 
+## Others
+
+* [Smithy Playground](https://github.com/kubukoz/smithy-playground/) 🚧 - A language server and VS Code client for interactive experimentation with Smithy services.
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
