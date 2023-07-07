@@ -19,10 +19,11 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 * [Code Generators](#code-generators)
     * [Client Code Generators](#client-code-generators)
     * [Server Code Generators](#server-code-generators)
-* [Examples](#examples)
+* [Learning resources](#learning-resources)
 * [IDE Support](#ide-support)
 * [Implementations](#implementations)
 * [Model Converters](#model-converters)
+* [Others](#others)
 
 ## Build tools
 * [Smithy CLI](https://github.com/awslabs/smithy/tree/main/smithy-cli) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Smithy CLI is used to build, validate, diff, and transform Smithy models.
@@ -44,10 +45,12 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 * [TypeScript](https://github.com/awslabs/smithy-typescript) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Server generator for TypeScript.
 * [Rust](https://github.com/awslabs/smithy-rs) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Server generator for Rust.
 
-## Examples
+## Learning resources
 * [Smithy Examples](https://github.com/smithy-lang/smithy-examples) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - A collection of examples to help you get up and running with Smithy.
 * [aws-samples: Typescript Example service](https://github.com/aws-samples/smithy-server-generator-typescript-sample) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Shows how to write a Typescript lambda service using Smithy and call the service using a generated client (see: [blog post](https://aws.amazon.com/blogs/devops/smithy-server-and-client-generator-for-typescript/)).
 * [Rust server SDK examples](https://github.com/awslabs/smithy-rs/tree/main/examples) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - a collection of examples using Smithy to generate a Rust server SDK.
+* [Scaling APIs with Smithy](https://www.youtube.com/watch?v=3GpZzu4guTE) - Overview of Smithy's background and features.
+* [kubukoz/smithy4s-course](https://github.com/kubukoz/smithy4s-course) - Smithy/Smithy4s course.
 
 ## IDE Support
 * [Smithy LSP](https://github.com/awslabs/smithy-language-server) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - A Language Server Protocol implementation for the Smithy IDL.
@@ -65,6 +68,9 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 * [JSONSchema](https://github.com/awslabs/smithy/tree/main/smithy-jsonschema) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Converts Smithy models to [JSONSchema](https://json-schema.org/)
 * [Cloud Formation Resource Schemas](https://smithy.io/2.0/guides/generating-cloudformation-resources.html#smithy-to-cloudformation) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Generating Cloudformation resource schemas from Smithy models
 
+## Others
+
+* [Smithy Playground](https://github.com/kubukoz/smithy-playground/) 🚧 - A language server and VS Code client for interactive experimentation with Smithy services.
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
