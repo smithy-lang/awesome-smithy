@@ -23,6 +23,8 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 * [IDE Support](#ide-support)
 * [Implementations](#implementations)
 * [Model Converters](#model-converters)
+* [CICD Support](#cicd-support)
+    * [GitHub Actions](#github-actions)
 * [Others](#others)
 
 ## Build tools
@@ -67,6 +69,11 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 * [OpenAPI](https://smithy.io/2.0/guides/converting-to-openapi.html#smithy-to-openapi) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Converts Smithy models to [OpenAPI](https://www.openapis.org/)
 * [JSONSchema](https://github.com/awslabs/smithy/tree/main/smithy-jsonschema) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Converts Smithy models to [JSONSchema](https://json-schema.org/)
 * [Cloud Formation Resource Schemas](https://smithy.io/2.0/guides/generating-cloudformation-resources.html#smithy-to-cloudformation) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Generating Cloudformation resource schemas from Smithy models
+
+## CICD Support
+### GitHub Actions
+* [setup-smithy](https://github.com/marketplace/actions/setup-smithy) - Install Smithy CLI to your GitHub Workflow
+* [format-smithy](https://github.com/marketplace/actions/format-smithy) - Checks if Smithy Models are formatted
 
 ## Others
 
