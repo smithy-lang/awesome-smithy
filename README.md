@@ -42,6 +42,7 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 * [Swift](https://github.com/awslabs/smithy-swift) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Client code generation for Swift.
 * [Scala](https://github.com/disneystreaming/smithy4s) - Community plugin for generation of clients in Scala.
 * [Dafny](https://github.com/awslabs/smithy-dafny) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Code generation tools for the [Dafny](https://dafny.org/) verification-aware programming language.
+* [Python](https://github.com/smithy-lang/smithy-python) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Client code generation for Python.
 
 ### Server Code Generators
 * [TypeScript](https://github.com/awslabs/smithy-typescript) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Server generator for TypeScript.
