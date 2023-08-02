@@ -10,7 +10,7 @@ guidelines](CONTRIBUTING.md) for more information).
 
 The Smithy team cannot vouch for the stability or production-worthiness an item on this list unless it has the icon
 <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> next to it. This icon means the
-component is an official project supported by the [Smithy](https://github.com/smithy-io) team.
+component is an official project supported by the [Smithy](https://github.com/smithy-lang) team.
 Official Smithy team projects with the 🚧 icon next to them are still a work-in-progress and are not production-ready.
 
 
