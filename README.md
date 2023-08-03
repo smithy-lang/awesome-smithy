@@ -25,6 +25,7 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 * [Model Converters](#model-converters)
 * [CICD Support](#cicd-support)
     * [GitHub Actions](#github-actions)
+* [Blog Posts](#blog-posts)
 * [Others](#others)
 
 ## Build tools
@@ -75,6 +76,11 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 ### GitHub Actions
 * [setup-smithy](https://github.com/marketplace/actions/setup-smithy) - Install Smithy CLI to your GitHub Workflow
 * [format-smithy](https://github.com/marketplace/actions/format-smithy) - Checks if Smithy Models are formatted
+
+## Blog Posts
+* [Introducing Smithy IDL 2.0](https://aws.amazon.com/blogs/developer/introducing-smithy-idl-2-0/) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Launch announcement for the Smithy IDL 2.0.
+* [Introducing the Smithy CLI](https://aws.amazon.com/blogs/developer/introducing-the-smithy-cli/) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Launch announcement for the Smithy CLI along with examples of how to use the CLI.
+* [Developer Preview: Ruby SDK code generation using Smithy](https://aws.amazon.com/blogs/developer/developer-preview-smithy-code-generated-ruby-sdk/)  <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Launch announcement for and overview of the AWS Ruby SDK built with Smithy.
 
 ## Others
 
