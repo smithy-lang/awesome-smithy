@@ -78,7 +78,7 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 
 ## Videos
 * [Scaling APIs with Smithy](https://www.youtube.com/watch?v=3GpZzu4guTE) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Overview of Smithy's background and features.
-* [Abstraction: Creating the Best developer experience / Model-First Design](https://youtu.be/gX2sHQafadA?t=1558) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - An introduction to model first design with Smithy
+* [Abstraction: Creating the Best developer experience / Model-First Design](https://youtu.be/gX2sHQafadA?t=1558) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - An introduction to model first design with Smithy.
 * [Building with the new AWS SDKs for Rust, Kotlin, and Swift](https://www.youtube.com/watch?v=Nhk1K1AjYvg) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Explores how these SDKs were built in parallel with Smithy, the commonalities they share, and how to build an app with each one.
 
 ## Other
