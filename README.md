@@ -6,7 +6,7 @@
 the [Smithy IDL](https://github.com/awslabs/smithy).
 
 If you want your component to appear here, send a pull request to this repository to add it (see the [contribution
-guidelines](CONTRIBUTING.md) for more information).
+guidelines](#contribute) for more information).
 
 The Smithy team cannot vouch for the stability or production-worthiness an item on this list unless it has the icon
 <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> next to it. This icon means the
@@ -27,18 +27,18 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
     * [GitHub Actions](#github-actions)
 * [Videos](#videos)
 * [Blog Posts](#blog-posts)
-* [Other](#other)
-
+* [Others](#others)
+* [Contribute](#contribute)
 
 ## Build tools
-* [Smithy CLI](https://github.com/awslabs/smithy/tree/main/smithy-cli) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Smithy CLI is used to build, validate, diff, and transform Smithy models.
-* [Gradle Plugin](https://github.com/awslabs/smithy-gradle-plugin) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Integrates Smithy with the Gradle build system.
+* [Smithy CLI](https://github.com/smithy-lang/smithy/tree/main/smithy-cli) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Smithy CLI is used to build, validate, diff, and transform Smithy models.
+* [Gradle Plugin](https://github.com/smithy-lang/smithy-gradle-plugin) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Integrates Smithy with the Gradle build system.
 * [SBT Plugin](https://disneystreaming.github.io/smithy4s/docs/overview/sbt) - Community supported plugin that integrates smithy with the SBT build system for Scala.
 
 ## Code Generators
 ### Client Code Generators
 * [TypeScript](https://github.com/awslabs/smithy-typescript) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Client code generation for Typescript.
-* [Golang](https://github.com/awslabs/smithy-go) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Client code generation for Golang.
+* [Golang](https://github.com/aws/smithy-go) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Client code generation for Golang.
 * [Rust](https://github.com/awslabs/smithy-rs) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Client code generation for Rust.
 * [Ruby](https://github.com/awslabs/smithy-ruby) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Client code generation for Ruby.
 * [Kotlin](https://github.com/awslabs/smithy-kotlin) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Client code generation for Kotlin.
@@ -69,14 +69,14 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 * [Atelier](https://github.com/johnstonskj/rust-atelier) 🚧 - Community implementation of Smithy in Rust
 
 ## Model Converters
-* [OpenAPI](https://smithy.io/2.0/guides/converting-to-openapi.html#smithy-to-openapi) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Converts Smithy models to [OpenAPI](https://www.openapis.org/)
-* [JSONSchema](https://github.com/awslabs/smithy/tree/main/smithy-jsonschema) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Converts Smithy models to [JSONSchema](https://json-schema.org/)
-* [Cloud Formation Resource Schemas](https://smithy.io/2.0/guides/generating-cloudformation-resources.html#smithy-to-cloudformation) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Generating Cloudformation resource schemas from Smithy models
+* [OpenAPI](https://smithy.io/2.0/guides/converting-to-openapi.html#smithy-to-openapi) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Converts Smithy models to [OpenAPI](https://www.openapis.org/).
+* [JSONSchema](https://github.com/awslabs/smithy/tree/main/smithy-jsonschema) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Converts Smithy models to [JSONSchema](https://json-schema.org/).
+* [Cloud Formation Resource Schemas](https://smithy.io/2.0/guides/generating-cloudformation-resources.html#smithy-to-cloudformation) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Generating Cloudformation resource schemas from Smithy models.
 
 ## CICD Support
 ### GitHub Actions
-* [setup-smithy](https://github.com/marketplace/actions/setup-smithy) - Install Smithy CLI to your GitHub Workflow
-* [format-smithy](https://github.com/marketplace/actions/format-smithy) - Checks if Smithy Models are formatted
+* [setup-smithy](https://github.com/marketplace/actions/setup-smithy) - Install Smithy CLI to your GitHub Workflow.
+* [format-smithy](https://github.com/marketplace/actions/format-smithy) - Checks if Smithy Models are formatted.
 
 ## Videos
 * [Scaling APIs with Smithy](https://www.youtube.com/watch?v=3GpZzu4guTE) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Overview of Smithy's background and features.
@@ -88,9 +88,8 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 * [Introducing the Smithy CLI](https://aws.amazon.com/blogs/developer/introducing-the-smithy-cli/) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Launch announcement for the Smithy CLI along with examples of how to use the CLI.
 * [Developer Preview: Ruby SDK code generation using Smithy](https://aws.amazon.com/blogs/developer/developer-preview-smithy-code-generated-ruby-sdk/)  <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Launch announcement for and overview of the AWS Ruby SDK built with Smithy.
 
-## Other
+## Others
 * [Smithy Playground](https://github.com/kubukoz/smithy-playground/) 🚧 - A language server and VS Code client for interactive experimentation with Smithy services.
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
-
