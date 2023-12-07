@@ -82,6 +82,7 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 * [Scaling APIs with Smithy](https://www.youtube.com/watch?v=3GpZzu4guTE) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Overview of Smithy's background and features.
 * [Abstraction: Creating the Best developer experience / Model-First Design](https://youtu.be/gX2sHQafadA?t=1558) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - An introduction to model first design with Smithy.
 * [Building with the new AWS SDKs for Rust, Kotlin, and Swift](https://www.youtube.com/watch?v=Nhk1K1AjYvg) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Explores how these SDKs were built in parallel with Smithy, the commonalities they share, and how to build an app with each one.
+* [Simplify building applications with AWS SDKs](https://www.youtube.com/watch?v=7J0UMAGgAdw) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Discusses how Smithy and model-first API design are used at AWS, how the AWS SDKs model client-side primitives such as paginators in Smithy, and how the AWS SDKs are evolving to use a standardized architecture.
 
 ## Blog Posts
 * [Introducing Smithy IDL 2.0](https://aws.amazon.com/blogs/developer/introducing-smithy-idl-2-0/) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Launch announcement for the Smithy IDL 2.0.
