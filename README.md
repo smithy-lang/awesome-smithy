@@ -15,7 +15,6 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 
 
 ## Contents
-- [Awesome Smithy](#awesome-smithy)
   - [Contents](#contents)
   - [Build tools](#build-tools)
   - [Code Generators](#code-generators)
@@ -76,7 +75,7 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 * [Smithy to OpenAPI](https://smithy.io/2.0/guides/converting-to-openapi.html#smithy-to-openapi) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Converts Smithy models to [OpenAPI](https://www.openapis.org/).
 * [Smithy to JSONSchema](https://github.com/awslabs/smithy/tree/main/smithy-jsonschema) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Converts Smithy models to [JSONSchema](https://json-schema.org/).
 * [Cloud Formation Resource Schemas](https://smithy.io/2.0/guides/generating-cloudformation-resources.html#smithy-to-cloudformation) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Generating Cloudformation resource schemas from Smithy models.
-* [Openapi|JSONSchema to Smithy](https://github.com/disneystreaming/smithy-translate) - smithy-translate : a community-provided CLI tool for best effort Openapi/JSONSchema to Smithy conversions
+* [Openapi/JSONSchema to Smithy](https://github.com/disneystreaming/smithy-translate) - smithy-translate : a community-provided CLI tool for best-effort Openapi/JSONSchema to Smithy conversions
 * [Smithy to Proto](https://github.com/disneystreaming/smithy-translate) - smithy-translate (see above)
 
 ## CICD Support
