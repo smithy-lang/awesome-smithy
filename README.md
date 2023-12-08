@@ -15,20 +15,21 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 
 
 ## Contents
-* [Build tools](#build-tools)
-* [Code Generators](#code-generators)
-    * [Client Code Generators](#client-code-generators)
-    * [Server Code Generators](#server-code-generators)
-* [Learning resources](#learning-resources)
-* [IDE Support](#ide-support)
-* [Implementations](#implementations)
-* [Model Converters](#model-converters)
-* [CICD Support](#cicd-support)
-    * [GitHub Actions](#github-actions)
-* [Videos](#videos)
-* [Blog Posts](#blog-posts)
-* [Others](#others)
-* [Contribute](#contribute)
+  - [Contents](#contents)
+  - [Build tools](#build-tools)
+  - [Code Generators](#code-generators)
+    - [Client Code Generators](#client-code-generators)
+    - [Server Code Generators](#server-code-generators)
+  - [Learning resources](#learning-resources)
+  - [IDE Support](#ide-support)
+  - [Implementations](#implementations)
+  - [Model Converters](#model-converters)
+  - [CICD Support](#cicd-support)
+    - [GitHub Actions](#github-actions)
+  - [Videos](#videos)
+  - [Blog Posts](#blog-posts)
+  - [Others](#others)
+  - [Contribute](#contribute)
 
 ## Build tools
 * [Smithy CLI](https://github.com/smithy-lang/smithy/tree/main/smithy-cli) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Smithy CLI is used to build, validate, diff, and transform Smithy models.
@@ -43,13 +44,15 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 * [Ruby](https://github.com/awslabs/smithy-ruby) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Client code generation for Ruby.
 * [Kotlin](https://github.com/awslabs/smithy-kotlin) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Client code generation for Kotlin.
 * [Swift](https://github.com/awslabs/smithy-swift) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Client code generation for Swift.
-* [Scala](https://github.com/disneystreaming/smithy4s) - Community plugin for generation of clients in Scala.
+* [Scala](https://github.com/disneystreaming/smithy4s) - Community plugin for generation of clients/servers in Scala.
 * [Dafny](https://github.com/awslabs/smithy-dafny) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Code generation tools for the [Dafny](https://dafny.org/) verification-aware programming language.
 * [Python](https://github.com/smithy-lang/smithy-python) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Client code generation for Python.
 
 ### Server Code Generators
 * [TypeScript](https://github.com/awslabs/smithy-typescript) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Server generator for TypeScript.
 * [Rust](https://github.com/awslabs/smithy-rs) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Server generator for Rust.
+* [Scala](https://github.com/disneystreaming/smithy4s) - Community plugin for generation of clients/servers in Scala.
+
 
 ## Learning resources
 * [Smithy Examples](https://github.com/smithy-lang/smithy-examples) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - A collection of examples to help you get up and running with Smithy.
@@ -69,9 +72,11 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 * [Atelier](https://github.com/johnstonskj/rust-atelier) 🚧 - Community implementation of Smithy in Rust
 
 ## Model Converters
-* [OpenAPI](https://smithy.io/2.0/guides/converting-to-openapi.html#smithy-to-openapi) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Converts Smithy models to [OpenAPI](https://www.openapis.org/).
-* [JSONSchema](https://github.com/awslabs/smithy/tree/main/smithy-jsonschema) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Converts Smithy models to [JSONSchema](https://json-schema.org/).
+* [Smithy to OpenAPI](https://smithy.io/2.0/guides/converting-to-openapi.html#smithy-to-openapi) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Converts Smithy models to [OpenAPI](https://www.openapis.org/).
+* [Smithy to JSONSchema](https://github.com/awslabs/smithy/tree/main/smithy-jsonschema) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Converts Smithy models to [JSONSchema](https://json-schema.org/).
 * [Cloud Formation Resource Schemas](https://smithy.io/2.0/guides/generating-cloudformation-resources.html#smithy-to-cloudformation) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Generating Cloudformation resource schemas from Smithy models.
+* [Openapi/JSONSchema to Smithy](https://github.com/disneystreaming/smithy-translate) - smithy-translate : a community-provided CLI tool for best-effort Openapi/JSONSchema to Smithy conversions
+* [Smithy to Protobuf](https://github.com/disneystreaming/smithy-translate) - smithy-translate (see above)
 
 ## CICD Support
 ### GitHub Actions
@@ -83,14 +88,18 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 * [Abstraction: Creating the Best developer experience / Model-First Design](https://youtu.be/gX2sHQafadA?t=1558) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - An introduction to model first design with Smithy.
 * [Building with the new AWS SDKs for Rust, Kotlin, and Swift](https://www.youtube.com/watch?v=Nhk1K1AjYvg) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Explores how these SDKs were built in parallel with Smithy, the commonalities they share, and how to build an app with each one.
 * [Simplify building applications with AWS SDKs](https://www.youtube.com/watch?v=7J0UMAGgAdw) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Discusses how Smithy and model-first API design are used at AWS, how the AWS SDKs model client-side primitives such as paginators in Smithy, and how the AWS SDKs are evolving to use a standardized architecture.
+* [Introduction to Smithy/Smithy4s](https://www.youtube.com/watch?v=CA8qGXMQ3cE) - Scala Conference talk introducing the Smithy IDL and the Smithy4s library
 
 ## Blog Posts
 * [Introducing Smithy IDL 2.0](https://aws.amazon.com/blogs/developer/introducing-smithy-idl-2-0/) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Launch announcement for the Smithy IDL 2.0.
 * [Introducing the Smithy CLI](https://aws.amazon.com/blogs/developer/introducing-the-smithy-cli/) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Launch announcement for the Smithy CLI along with examples of how to use the CLI.
 * [Developer Preview: Ruby SDK code generation using Smithy](https://aws.amazon.com/blogs/developer/developer-preview-smithy-code-generated-ruby-sdk/)  <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Launch announcement for and overview of the AWS Ruby SDK built with Smithy.
+* [Smithy4s-full stack](https://blog.indoorvivants.com/2022-06-10-smithy4s-fullstack-part-1) - A series of posts describing an application built with Smithy4s in both front-end and back-end.
 
 ## Others
 * [Smithy Playground](https://github.com/kubukoz/smithy-playground/) 🚧 - A language server and VS Code client for interactive experimentation with Smithy services.
+* [Build Server Protocol](https://github.com/build-server-protocol/build-server-protocol) - an extension to the Language Server Protocol using Smithy as a definition language.
+* [Alloy](https://github.com/disneystreaming/alloy/) - a library of Smithy traits providing additional semantics and constraints, used in particular by smithy-translate and smithy4s.
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
