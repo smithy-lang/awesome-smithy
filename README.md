@@ -66,6 +66,7 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 * [Intellij plugin](https://github.com/awslabs/smithy-intellij) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Provides IDE integration for the Smithy IDL within IntelliJ IDEA.
 * [iancaffey/smithy-intellij-plugin](https://github.com/iancaffey/smithy-intellij-plugin) - Community plugin for IDE integration for the Smithy IDL in Intellij IDEA.
 * [Tree Sitter Grammar for Smithy](https://github.com/indoorvivants/tree-sitter-smithy) - Tree-sitter grammar for Smithy. Included in [Neovim](https://github.com/nvim-treesitter/nvim-treesitter) and [Helix](https://docs.helix-editor.com/) by default.
+* [Zed extension](https://github.com/joshrutkowski/zed-smithy) - [Zed](https://zed.dev/) extension using [Tree-sitter grammar for Smithy](https://github.com/indoorvivants/tree-sitter-smithy).
 
 ## Implementations
 * [Smithy Reference Implementation](https://github.com/awslabs/smithy) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Smithy reference implementation in Java
