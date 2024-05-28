@@ -33,7 +33,7 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 
 ## Build tools
 * [Smithy CLI](https://github.com/smithy-lang/smithy/tree/main/smithy-cli) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Smithy CLI is used to build, validate, diff, and transform Smithy models.
-* [Gradle Plugin](https://github.com/smithy-lang/smithy-gradle-plugin) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> 🚧 - Integrates Smithy with the Gradle build system.
+* [Gradle Plugin](https://github.com/smithy-lang/smithy-gradle-plugin) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Integrates Smithy with the Gradle build system.
 * [Mill Plugin](https://disneystreaming.github.io/smithy4s/docs/overview/installation/#mill) - Community supported plugin that integrates smithy with the [Mill build tool](https://github.com/com-lihaoyi/mill).
 * [SBT Plugin](https://disneystreaming.github.io/smithy4s/docs/overview/installation/#sbt) - Community supported plugin that integrates smithy with the SBT build system for Scala.
 
