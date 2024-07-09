@@ -92,6 +92,7 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 * [Simplify building applications with AWS SDKs](https://www.youtube.com/watch?v=7J0UMAGgAdw) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Discusses how Smithy and model-first API design are used at AWS, how the AWS SDKs model client-side primitives such as paginators in Smithy, and how the AWS SDKs are evolving to use a standardized architecture.
 * [Introduction to Smithy/Smithy4s](https://www.youtube.com/watch?v=CA8qGXMQ3cE) - Scala Conference talk introducing the Smithy IDL and the Smithy4s library
 * [Generating Kotlin SDKs with Smithy](https://www.youtube.com/watch?v=Wsra04prG-E) - KotlinConf talk that provides an overview of Smithy and discusses how `smithy-kotlin` can be used to generate Kotlin SDKs
+* [Elevating API Design With Smithy](https://www.youtube.com/watch?v=tufEEuPn6Lk) - Functional Scala talk - Intro to Smithy IDL with JVM Tooling and Smithy4s 
 
 ## Blog Posts
 * [Introducing Smithy IDL 2.0](https://aws.amazon.com/blogs/developer/introducing-smithy-idl-2-0/) <img src="smithy-favicon.png" alt="(official)" title="Smithy Official" height="16px"> - Launch announcement for the Smithy IDL 2.0.
