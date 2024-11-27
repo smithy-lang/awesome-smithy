@@ -1,7 +1,7 @@
 # Awesome Smithy
 
-[<img src="/assets/smithy-light.svg#gh-light-mode-only" align="right" width="300">](https://smithy.io)
-[<img src="/assets/smithy-dark.svg#gh-dark-mode-only" align="right" width="300">](https://smithy.io)
+[<img src="/assets/smithy-light.svg#gh-light-mode-only" align="right" width="300">](https://smithy.io#gh-light-mode-only)
+[<img src="/assets/smithy-dark.svg#gh-dark-mode-only" align="right" width="300">](https://smithy.iog#gh-dark-mode-only)
 
 *Awesome Smithy* is a curated list of awesome build-tools, code-generators, examples, and other resources related to
 the [Smithy IDL](https://github.com/awslabs/smithy).
