@@ -53,7 +53,7 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 
 ### Server Code Generators
 * [TypeScript](https://github.com/awslabs/smithy-typescript) <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> 🚧 - Server generator for TypeScript.
-* * [Java](https://github.com/smithy-lang/smithy-java) <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> 🚧 - Server code generation for Java.
+* [Java](https://github.com/smithy-lang/smithy-java) <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> 🚧 - Server code generation for Java.
 * [Rust](https://github.com/awslabs/smithy-rs) <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> 🚧 - Server generator for Rust.
 * [Scala](https://github.com/disneystreaming/smithy4s) - Community plugin for generation of clients/servers in Scala.
 
