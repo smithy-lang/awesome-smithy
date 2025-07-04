@@ -107,6 +107,7 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 * [Smithy Playground](https://github.com/kubukoz/smithy-playground/) 🚧 - A language server and VS Code client for interactive experimentation with Smithy services.
 * [Build Server Protocol](https://github.com/build-server-protocol/build-server-protocol) - an extension to the Language Server Protocol using Smithy as a definition language.
 * [Alloy](https://github.com/disneystreaming/alloy/) - a library of Smithy traits providing additional semantics and constraints, used in particular by smithy-translate and smithy4s.
+* [smaws](https://github.com/chris-armstrong/smaws/) - a Smithy generator and AWS SDK built in OCaml
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
