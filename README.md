@@ -102,12 +102,15 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 * [Introducing the Smithy CLI](https://aws.amazon.com/blogs/developer/introducing-the-smithy-cli/) <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> - Launch announcement for the Smithy CLI along with examples of how to use the CLI.
 * [Developer Preview: Ruby SDK code generation using Smithy](https://aws.amazon.com/blogs/developer/developer-preview-smithy-code-generated-ruby-sdk/)  <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> - Launch announcement for and overview of the AWS Ruby SDK built with Smithy.
 * [Smithy4s-full stack](https://blog.indoorvivants.com/2022-06-10-smithy4s-fullstack-part-1) - A series of posts describing an application built with Smithy4s in both front-end and back-end.
+* [Introducing AWS API models and publicly available resources for AWS API definitions](https://aws.amazon.com/blogs/aws/introducing-aws-api-models-and-publicly-available-resources-for-aws-api-definitions/) - Launch announcement for AWS's API models being published as Smithy specs in Maven Central.
 
 ## Others
 * [Smithy Playground](https://github.com/kubukoz/smithy-playground/) 🚧 - A language server and VS Code client for interactive experimentation with Smithy services.
 * [Build Server Protocol](https://github.com/build-server-protocol/build-server-protocol) - an extension to the Language Server Protocol using Smithy as a definition language.
 * [Alloy](https://github.com/disneystreaming/alloy/) - a library of Smithy traits providing additional semantics and constraints, used in particular by smithy-translate and smithy4s.
 * [smaws](https://github.com/chris-armstrong/smaws/) - a Smithy generator and AWS SDK built in OCaml
+* [Smithy Selector Playground](http://github.com/kubukoz/smithy-selector-playground/) - a web tool for experimenting with Smithy selectors
+* [Smithy Transcoder](https://github.com/kubukoz/smithy-transcoder) - a web tool for previewing the serialized form of Smithy models
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
