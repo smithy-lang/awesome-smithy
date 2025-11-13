@@ -75,6 +75,7 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 ## Implementations
 * [Smithy Reference Implementation](https://github.com/awslabs/smithy) <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> - Smithy reference implementation in Java
 * [Atelier](https://github.com/johnstonskj/rust-atelier) 🚧 - Community implementation of Smithy in Rust
+* [smithy-lisp](https://github.com/fukamachi/smithy-lisp) – Community implementation in Common Lisp
 
 ## Model Converters
 * [Smithy to OpenAPI](https://smithy.io/2.0/guides/converting-to-openapi.html#smithy-to-openapi) <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> - Converts Smithy models to [OpenAPI](https://www.openapis.org/).
