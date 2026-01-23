@@ -45,7 +45,7 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 * [Golang](https://github.com/aws/smithy-go) <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> 🚧 - Client code generation for Golang.
 * [Rust](https://github.com/awslabs/smithy-rs) <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> 🚧 - Client code generation for Rust.
 * [Ruby](https://github.com/awslabs/smithy-ruby) <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> 🚧 - Client code generation for Ruby.
-* [Kotlin](https://github.com/awslabs/smithy-kotlin) <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> 🚧 - Client code generation for Kotlin.
+* [Kotlin](https://github.com/awslabs/smithy-kotlin) <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> - Client code generation for Kotlin.
 * [Swift](https://github.com/awslabs/smithy-swift) <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> 🚧 - Client code generation for Swift.
 * [Scala](https://github.com/disneystreaming/smithy4s) - Community plugin for generation of clients/servers in Scala.
 * [Dafny](https://github.com/awslabs/smithy-dafny) <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> 🚧 - Code generation tools for the [Dafny](https://dafny.org/) verification-aware programming language.
