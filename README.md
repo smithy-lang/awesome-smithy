@@ -37,6 +37,7 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 * [Gradle Plugin](https://github.com/smithy-lang/smithy-gradle-plugin) <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> - Integrates Smithy with the Gradle build system.
 * [Mill Plugin](https://disneystreaming.github.io/smithy4s/docs/overview/installation/#mill) - Community supported plugin that integrates smithy with the [Mill build tool](https://github.com/com-lihaoyi/mill).
 * [SBT Plugin](https://disneystreaming.github.io/smithy4s/docs/overview/installation/#sbt) - Community supported plugin that integrates smithy with the SBT build system for Scala.
+* [Smithy Cargo](https://github.com/mellemahp/smithy-cargo) - Community supported build tool that integrates smithy with Cargo build scripts (`build.rs`)
 
 ## Code Generators
 ### Client Code Generators
