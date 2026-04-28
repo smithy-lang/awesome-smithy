@@ -88,6 +88,7 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 
 ## CICD Support
 ### GitHub Actions
+* [setup-smithy-cli](https://github.com/smithy-lang/setup-smithy-cli) <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> - Install the Smithy CLI for a GitHub action to validate, build, format, and diff Smithy models in a GitHub repository.
 * [setup-smithy](https://github.com/marketplace/actions/setup-smithy) - Install Smithy CLI to your GitHub Workflow.
 * [format-smithy](https://github.com/marketplace/actions/format-smithy) - Checks if Smithy Models are formatted.
 
