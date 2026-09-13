@@ -117,6 +117,7 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 * [smaws](https://github.com/chris-armstrong/smaws/) - a Smithy generator and AWS SDK built in OCaml
 * [Smithy Selector Playground](http://github.com/kubukoz/smithy-selector-playground/) - a web tool for experimenting with Smithy selectors
 * [Smithy Transcoder](https://github.com/kubukoz/smithy-transcoder) - a web tool for previewing the serialized form of Smithy models
+* [Smithy MCP Server](https://github.com/ryancormack/smithy-mcp) - a hosted [Model Context Protocol](https://modelcontextprotocol.io) server for the Smithy 2.0 documentation, giving AI assistants semantic search and full-document reads over the Smithy docs (live at [smithymcp.com](https://smithymcp.com)).
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
