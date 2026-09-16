@@ -42,7 +42,7 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 ## Code Generators
 ### Client Code Generators
 * [TypeScript](https://github.com/awslabs/smithy-typescript) <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> 🚧 - Client code generation for Typescript.
-* [Java](https://github.com/smithy-lang/smithy-java) <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> 🚧 - Client code generation for Java.
+* [Java](https://github.com/smithy-lang/smithy-java) <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> - Client libraries, dynamic client that loads models at runtime, and client code generation for Java.
 * [Golang](https://github.com/aws/smithy-go) <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> 🚧 - Client code generation for Golang.
 * [Rust](https://github.com/awslabs/smithy-rs) <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> 🚧 - Client code generation for Rust.
 * [Ruby](https://github.com/awslabs/smithy-ruby) <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> 🚧 - Client code generation for Ruby.
@@ -104,6 +104,7 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 * [Elevating API Design With Smithy](https://www.youtube.com/watch?v=tufEEuPn6Lk) - Functional Scala talk - Intro to Smithy IDL with JVM Tooling and Smithy4s 
 
 ## Blog Posts
+* [Generate standalone types with Smithy](https://aws.amazon.com/blogs/developer/generate-standalone-types-with-smithy) <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> - Launch announcement of Smithy's shape closures, a named set of shapes you declare in the model yourself, used to generate standalone types outside a service model.
 * [Introducing Smithy IDL 2.0](https://aws.amazon.com/blogs/developer/introducing-smithy-idl-2-0/) <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> - Launch announcement for the Smithy IDL 2.0.
 * [Introducing the Smithy CLI](https://aws.amazon.com/blogs/developer/introducing-the-smithy-cli/) <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> - Launch announcement for the Smithy CLI along with examples of how to use the CLI.
 * [Developer Preview: Ruby SDK code generation using Smithy](https://aws.amazon.com/blogs/developer/developer-preview-smithy-code-generated-ruby-sdk/)  <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> - Launch announcement for and overview of the AWS Ruby SDK built with Smithy.
