@@ -52,7 +52,7 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 * [Dafny](https://github.com/awslabs/smithy-dafny) <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> 🚧 - Code generation tools for the [Dafny](https://dafny.org/) verification-aware programming language.
 * [Python](https://github.com/smithy-lang/smithy-python) <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> 🚧 - Client code generation for Python.
 * [Erlang, Elixir, Gleam](https://github.com/f34nk/smithy-beam) - Community plugin for generating clients and servers targeting BEAM languages: Erlang, Elixir, Gleam
-* [C#](https://github.com/thomaslaich/smithy-dotnet) - Community plugin for generation of clients/servers in C#.
+* [C#, F#](https://github.com/thomaslaich/smithy-dotnet) - Community plugin for generation of clients/servers in C# and F#.
 
 ### Server Code Generators
 * [TypeScript](https://github.com/awslabs/smithy-typescript) <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> 🚧 - Server generator for TypeScript.
@@ -60,7 +60,7 @@ Official Smithy team projects with the 🚧 icon next to them are still a work-i
 * [Rust](https://github.com/awslabs/smithy-rs) <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> 🚧 - Server generator for Rust.
 * [Scala](https://github.com/disneystreaming/smithy4s) - Community plugin for generation of clients/servers in Scala.
 * [Erlang, Elixir, Gleam](https://github.com/f34nk/smithy-beam) - Community plugin for generating clients and servers targeting BEAM languages: Erlang, Elixir, Gleam
-* [C#](https://github.com/thomaslaich/smithy-dotnet) - Community plugin for generation of clients/servers in C#.
+* [C#, F#](https://github.com/thomaslaich/smithy-dotnet) - Community plugin for generation of clients/servers in C# and F#.
 
 ## Learning resources
 * [Smithy Examples](https://github.com/smithy-lang/smithy-examples) <img src="/assets/smithy-anvil.svg" alt="(official)" title="Smithy Official" height="10px"> - A collection of examples to help you get up and running with Smithy.
